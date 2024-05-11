@@ -1,0 +1,8 @@
+@media screen and (max-width: 768px) and (max-width:1024px) and (max-width:1336px)
+and (max-width: 320px) and (max-width:375px) and (max-width: 425px) {
+    *{
+        width: 100%;
+        height: auto;
+    }
+
+} 
